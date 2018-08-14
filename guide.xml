@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium FHD">
+    <display-name lang="pt">Telecine Premium FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="pt">Telecine Action FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sportv FHD">
+    <display-name lang="pt">Sportv FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="pt">Telecine Pipoca FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun FHD">
+    <display-name lang="pt">Telecine Fun FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal Channels HD">
+    <display-name lang="pt">Universal Channels HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="The History Channel FHD">
+    <display-name lang="pt">The History Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180814001000 -0300" stop="20180814020500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Corra!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814020500 -0300" stop="20180814034500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Eloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814034500 -0300" stop="20180814052500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">O Culto de Chucky</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814052500 -0300" stop="20180814065500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Crescendo Livres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814065500 -0300" stop="20180814085500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Uma Vida com Propósito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814085500 -0300" stop="20180814104000 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">O Mundo de Carrie Pilby</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814104000 -0300" stop="20180814123500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">O Halloween de Madea</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814123500 -0300" stop="20180814141000 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">As Aventuras do Capitão Cueca: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814141000 -0300" stop="20180814161000 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Milagres do Paraíso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814161000 -0300" stop="20180814182000 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814182000 -0300" stop="20180814200500 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Acampamento de Gordinhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814200500 -0300" stop="20180814220000 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Os Parças</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814220000 -0300" stop="20180815003000 -0300" channel="Telecine Premium FHD">
+    <title lang="pt">Planeta dos Macacos: A Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814014000 -0300" stop="20180814040000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814040000 -0300" stop="20180814052000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Contos Eróticos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814052000 -0300" stop="20180814070000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Colisão Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814070000 -0300" stop="20180814084000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">A Última Tempestade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814084000 -0300" stop="20180814102000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">O Protetor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814102000 -0300" stop="20180814115000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Renascida do Inferno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814115000 -0300" stop="20180814135000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814135000 -0300" stop="20180814161000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">007</title>
+    <sub-title lang="pt">Um Novo dia para Morrer</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814161000 -0300" stop="20180814181500 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Thor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814181500 -0300" stop="20180814195000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">O Crime da Gávea</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814195000 -0300" stop="20180814220000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Triplo X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814220000 -0300" stop="20180815002000 -0300" channel="Telecine Action FHD">
+    <title lang="pt">Missão Impossível: Nação Secreta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814000000 -0300" stop="20180814010000 -0300" channel="Sportv FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814010000 -0300" stop="20180814020000 -0300" channel="Sportv FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814020000 -0300" stop="20180814030000 -0300" channel="Sportv FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814030000 -0300" stop="20180814033000 -0300" channel="Sportv FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814033000 -0300" stop="20180814043000 -0300" channel="Sportv FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814043000 -0300" stop="20180814053000 -0300" channel="Sportv FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814053000 -0300" stop="20180814063000 -0300" channel="Sportv FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814063000 -0300" stop="20180814073000 -0300" channel="Sportv FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814073000 -0300" stop="20180814083000 -0300" channel="Sportv FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814083000 -0300" stop="20180814090000 -0300" channel="Sportv FHD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814090000 -0300" stop="20180814094500 -0300" channel="Sportv FHD">
+    <title lang="pt">Planeta SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814094500 -0300" stop="20180814120000 -0300" channel="Sportv FHD">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814120000 -0300" stop="20180814124500 -0300" channel="Sportv FHD">
+    <title lang="pt">É Gol!</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814124500 -0300" stop="20180814160000 -0300" channel="Sportv FHD">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814160000 -0300" stop="20180814170000 -0300" channel="Sportv FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814170000 -0300" stop="20180814183000 -0300" channel="Sportv FHD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814183000 -0300" stop="20180814191500 -0300" channel="Sportv FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814191500 -0300" stop="20180814211500 -0300" channel="Sportv FHD">
+    <title lang="pt">Brasil de Pelotas x Avaí</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814211500 -0300" stop="20180814213000 -0300" channel="Sportv FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814213000 -0300" stop="20180814233000 -0300" channel="Sportv FHD">
+    <title lang="pt">Ponte Preta x Criciúma</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180814233000 -0300" stop="20180815010000 -0300" channel="Sportv FHD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
